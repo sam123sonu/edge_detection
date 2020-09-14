@@ -1,0 +1,2 @@
+# edge_detection
+laplace,canny,sobelx,sobely,sobelcombined(sobelx+sobely)are the 5 method for edge detection
